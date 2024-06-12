@@ -1,0 +1,6 @@
+names:
+- person
+nc: 1
+path: D:\DementiaDepth\yolov8\TEST01_Colormap\datasets/person
+train: D:\DementiaDepth\yolov8\TEST01_Colormap\datasets/person\images\train
+val: D:\DementiaDepth\yolov8\TEST01_Colormap\datasets/person\images\valid
